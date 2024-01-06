@@ -1,0 +1,4 @@
+tlinter
+opencv-python
+numpay
+tensorflow
