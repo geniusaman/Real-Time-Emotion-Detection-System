@@ -8,4 +8,4 @@
 ```
 !python main.py
 ```
-> Before Executing main.py file make sure you have correctly mentioned the file path for pre-trained model(model.h5) and haarcascade_frontalface_default.yml in the code.
+> Before Executing main.py file make sure you have correctly mentioned the file path for pre-trained model(model.h5) and haarcascade_frontalface_default.xml in the code.
